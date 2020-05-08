@@ -7,7 +7,7 @@
 </h1>
 <br>
 
-<h1> (Segunda parte da) Análise descritiva básica da Pesquisa Nacional por Amostra de Domicílios - PNAD de 2015 </h1>
+<h1> (Terceira parte da) Análise descritiva básica da Pesquisa Nacional por Amostra de Domicílios - PNAD de 2015 </h1>
 <br>
 
 <h2> Trabalho de Análise Descritiva de um Conjunto de Dados </h2>
