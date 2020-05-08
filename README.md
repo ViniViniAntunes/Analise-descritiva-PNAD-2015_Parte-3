@@ -1,6 +1,3 @@
-# Analise-descritiva-PNAD-2015_Parte-3
-
-
 <h1 align="center">
   <img src="https://www.alura.com.br/assets/api/cursos/estatistica-testes-hipotestes.svg" float="center" width=20%/>
   <p align="center"><strong align="center">Statistics</strong></p>
